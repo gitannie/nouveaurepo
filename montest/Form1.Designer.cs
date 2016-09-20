@@ -54,6 +54,15 @@
             // 
             // button3
             // 
+            this.button3.Location = new System.Drawing.Point(229, 59);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(42, 83);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "Collabo3$";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
             this.button3.Location = new System.Drawing.Point(208, 65);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(54, 96);
