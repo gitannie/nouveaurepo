@@ -23,7 +23,7 @@
 # intervention with every merge. To do so, just uncomment the entries below
 ###############################################################################
 *.sln       merge=union
-#*.csproj  -text  merge=union
+*.csproj  -text  merge=union
 #*.vbproj    merge=union
 #*.vcxproj   merge=binary
 #*.vcproj    merge=binary
@@ -34,7 +34,7 @@
 #*.modelproj merge=binary
 #*.sqlproj   merge=binary
 #*.wwaproj   merge=binary
-
+*.sln merge=union
 ###############################################################################
 # behavior for image files
 #
